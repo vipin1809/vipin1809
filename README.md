@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @vipin1809
 - 👀 I’m interested in Software development.
-- I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering.
+- pursuing my Bachelors in Computer Science & Engineering.
+- I’m an Open-Source enthusiast
 - Reach me to @vipin_2004
 
 <!---
